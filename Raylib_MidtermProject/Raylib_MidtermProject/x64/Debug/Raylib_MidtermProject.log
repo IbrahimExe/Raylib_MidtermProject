@@ -1,0 +1,4 @@
+﻿  Raylib_MidtermProject.cpp
+C:\Users\lcv2343922\Desktop\Raylib_MidtermProject\Raylib_MidtermProject\Raylib_MidtermProject.cpp(63,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcv2343922\Desktop\Raylib_MidtermProject\Raylib_MidtermProject\Raylib_MidtermProject.cpp(97,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Raylib_MidtermProject.vcxproj -> C:\Users\lcv2343922\Desktop\Raylib_MidtermProject\x64\Debug\Raylib_MidtermProject.exe

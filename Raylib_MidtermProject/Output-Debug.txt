@@ -1,0 +1,103 @@
+﻿'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Users\Ibrahim\source\repos\Raylib_MidtermProject\x64\Debug\Raylib_MidtermProject.exe'. Symbols loaded.
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 8600 has exited with code 0 (0x0).
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\XInput1_4.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\opengl32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\glu32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\AppXDeploymentClient.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\AppXDeploymentClient.dll'
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvhmi.inf_amd64_2b0fd4fc2aa35773\nvoglv64.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\wtsapi32.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\cryptnet.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\drvstore.dll'. 
+The thread 22656 has exited with code 0 (0x0).
+The thread 20376 has exited with code 0 (0x0).
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\imagehlp.dll'. 
+The thread 23768 has exited with code 0 (0x0).
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvhmi.inf_amd64_2b0fd4fc2aa35773\nvgpucomp64.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\nvspcap64.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'Raylib_MidtermProject.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\winsta.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'Raylib_MidtermProject.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+The thread 5392 has exited with code 3221225786 (0xc000013a).
+The thread 9440 has exited with code 3221225786 (0xc000013a).
+The thread 5880 has exited with code 3221225786 (0xc000013a).
+The thread 21880 has exited with code 3221225786 (0xc000013a).
+The thread 32132 has exited with code 3221225786 (0xc000013a).
+The thread 26592 has exited with code 3221225786 (0xc000013a).
+The thread 24020 has exited with code 3221225786 (0xc000013a).
+The thread 32124 has exited with code 3221225786 (0xc000013a).
+The thread 352 has exited with code 3221225786 (0xc000013a).
+The thread 8404 has exited with code 3221225786 (0xc000013a).
+The thread 21456 has exited with code 3221225786 (0xc000013a).
+The thread 31856 has exited with code 3221225786 (0xc000013a).
+The program '[15300] Raylib_MidtermProject.exe' has exited with code 3221225786 (0xc000013a).
